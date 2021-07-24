@@ -1,0 +1,573 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/simulation/modelsim
+Eand_gate
+Z1 w1572511340
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd
+Z5 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd
+l0
+L5
+V:b010olb:SZ@K7EDhV9@=2
+!s100 WlialfEDXd>k;m=G:ImdJ2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1573302950
+!i10b 1
+Z8 !s108 1573302950.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd|
+Z10 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aand_delay
+R2
+R3
+Z13 DEx4 work 8 and_gate 0 22 :b010olb:SZ@K7EDhV9@=2
+l14
+L13
+VY9Jm:Sl7c>WAkVBYb4f3N0
+!s100 @b=`bJBUXEDD[_VNF8lVh3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eblack_block
+Z14 w1572490472
+R2
+R3
+R0
+Z15 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd
+Z16 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd
+l0
+L5
+VP[@_i76UFz?TA^ZY?8P;A1
+!s100 o9^zQ;Lb8Vn3ga0SYHI[Q0
+R6
+31
+Z17 !s110 1573302951
+!i10b 1
+Z18 !s108 1573302951.000000
+Z19 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd|
+Z20 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd|
+!i113 1
+R11
+R12
+Ablack_block_arch
+Z21 DEx4 work 9 nand_gate 0 22 VP<nCO<8zLPZLM6P3f9=W3
+Z22 DEx4 work 8 not_gate 0 22 dS[zCKhQ6Ra>VmRMhn9Ga3
+Z23 DEx4 work 5 logic 0 22 SZA8i`2[GQKH22INVJEgk3
+R2
+R3
+Z24 DEx4 work 11 black_block 0 22 P[@_i76UFz?TA^ZY?8P;A1
+l17
+L13
+V6CdGB@a9:QOhZ^lW<PB;70
+!s100 <7aL:BObg9h>S>Y0ALVQk3
+R6
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Ebrent_kung_adder
+Z25 w1572498239
+R2
+R3
+R0
+Z26 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd
+Z27 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd
+l0
+L5
+V:WPPd_458CH>[33T8P@BM3
+!s100 <36N8ZhPcgE5Z4fZ;P`iN2
+R6
+31
+R17
+!i10b 1
+R18
+Z28 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd|
+Z29 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd|
+!i113 1
+R11
+R12
+Athirtytwo_bit
+Z30 DEx4 work 8 xor_gate 0 22 i;DGT8zBMRc7l^OBS]h?I2
+R24
+Z31 DEx4 work 10 gray_block 0 22 a<R91TPAE^^JJRTha2>NR0
+Z32 DEx4 work 2 gp 0 22 Ye;JgBiM`a33]l:jlPaP?0
+R2
+R3
+Z33 DEx4 work 16 brent_kung_adder 0 22 :WPPd_458CH>[33T8P@BM3
+l25
+L13
+V0G:Jc8J[J`igaOZ4E;VgZ2
+!s100 Wj>5?R=5gMWKA4glS_X380
+R6
+31
+R17
+!i10b 1
+R18
+R28
+R29
+!i113 1
+R11
+R12
+Edadda_multiplier
+Z34 w1572539958
+R2
+R3
+R0
+Z35 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd
+Z36 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd
+l0
+L4
+VdfERb`835RWeUNj;eEU430
+!s100 coJLoKjli<QiWa[^8IKM:1
+R6
+31
+Z37 !s110 1573302952
+!i10b 1
+Z38 !s108 1573302952.000000
+Z39 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd|
+Z40 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd|
+!i113 1
+R11
+R12
+Asixteen_bit
+R33
+Z41 DEx4 work 10 full_adder 0 22 @IiBdB7zEzZ8;;dBZT;[e0
+Z42 DEx4 work 10 half_adder 0 22 R66UOdY6:onCg0ijEAznj3
+Z43 DEx4 work 4 pass 0 22 B47XG4RWEB_F2ae1nUXHV0
+R13
+R2
+R3
+DEx4 work 16 dadda_multiplier 0 22 dfERb`835RWeUNj;eEU430
+l48
+L12
+VUf]:=Q?38:QRTRY?ZWSVJ2
+!s100 4:H>;l9P>?0Te5AFcd^MK3
+R6
+31
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Edadda_multiplier_tb
+Z44 w1572541592
+R2
+R3
+R0
+Z45 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd
+Z46 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd
+l0
+L5
+VT;?IUoo`i00ER:YbWfVF02
+!s100 a^=?mU>=[OjSH3gi?7]EK1
+R6
+31
+R37
+!i10b 1
+R38
+Z47 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd|
+Z48 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd|
+!i113 1
+R11
+R12
+Atb
+R2
+R3
+DEx4 work 19 dadda_multiplier_tb 0 22 T;?IUoo`i00ER:YbWfVF02
+l21
+L8
+VVLSmGdg:@QF3F=BPZ:zgl0
+!s100 AK<9_8GdgkBo8NgSa<JaO2
+R6
+31
+R37
+!i10b 1
+R38
+R47
+R48
+!i113 1
+R11
+R12
+Efull_adder
+Z49 w1572512725
+R2
+R3
+R0
+Z50 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd
+Z51 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd
+l0
+L4
+V@IiBdB7zEzZ8;;dBZT;[e0
+!s100 JDVTILS87z6A?>EELeTWX1
+R6
+31
+Z52 !s110 1573302949
+!i10b 1
+Z53 !s108 1573302949.000000
+Z54 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd|
+Z55 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd|
+!i113 1
+R11
+R12
+Aha
+R2
+R3
+R41
+l16
+L12
+VDD9oTPlzUUbUC1_FNYa=T2
+!s100 j0_[kSV=h0=A4`d8DCV>J1
+R6
+31
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R11
+R12
+Egp
+Z56 w1572512793
+R2
+R3
+R0
+Z57 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd
+Z58 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd
+l0
+L5
+VYe;JgBiM`a33]l:jlPaP?0
+!s100 F^gc21Q]YV97K:J>e`DP03
+R6
+31
+R17
+!i10b 1
+R18
+Z59 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd|
+Z60 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd|
+!i113 1
+R11
+R12
+Agp_arch
+R30
+R22
+R21
+R2
+R3
+R32
+l16
+L13
+VKnaDf2eMD3BA1@S`j8mol0
+!s100 YjhB;3_OgdB_Ed19dVdO]0
+R6
+31
+R17
+!i10b 1
+R18
+R59
+R60
+!i113 1
+R11
+R12
+Egray_block
+Z61 w1572512794
+R2
+R3
+R0
+Z62 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd
+Z63 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd
+l0
+L5
+Va<R91TPAE^^JJRTha2>NR0
+!s100 lE5lX6e4K3hQbkn`O`2I52
+R6
+31
+R17
+!i10b 1
+R18
+Z64 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd|
+Z65 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd|
+!i113 1
+R11
+R12
+Agray_block_arch
+R22
+R23
+R2
+R3
+R31
+l17
+L13
+VkWC=jen;m]P>8UUON2WcF3
+!s100 75]RWha?33P@m;Qdl[Q8Z0
+R6
+31
+R17
+!i10b 1
+R18
+R64
+R65
+!i113 1
+R11
+R12
+Ehalf_adder
+Z66 w1572512791
+R2
+R3
+R0
+Z67 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd
+Z68 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd
+l0
+L4
+VR66UOdY6:onCg0ijEAznj3
+!s100 C4Rml]jjbRZBElbb^;KKZ1
+R6
+31
+R52
+!i10b 1
+R53
+Z69 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd|
+Z70 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd|
+!i113 1
+R11
+R12
+Aha
+R2
+R3
+R42
+l15
+L12
+VYYL<G6CE06RRVb5:S22aD3
+!s100 O>2TUDb_0ng5_H7hWL>:01
+R6
+31
+R52
+!i10b 1
+R53
+R69
+R70
+!i113 1
+R11
+R12
+Elogic
+R56
+R2
+R3
+R0
+Z71 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd
+Z72 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd
+l0
+L5
+VSZA8i`2[GQKH22INVJEgk3
+!s100 >1R2kW[@P5kjhOH0FnFg20
+R6
+31
+R17
+!i10b 1
+R8
+Z73 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd|
+Z74 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd|
+!i113 1
+R11
+R12
+Alogic_delay
+R2
+R3
+R23
+l14
+L13
+V83QnN`;odUZOlGkaTNokM2
+!s100 9BzK`d@TmI4dlg39aEdLz3
+R6
+31
+R17
+!i10b 1
+R8
+R73
+R74
+!i113 1
+R11
+R12
+Enand_gate
+Z75 w1572512792
+R2
+R3
+R0
+Z76 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd
+Z77 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd
+l0
+L5
+VVP<nCO<8zLPZLM6P3f9=W3
+!s100 EFe@5KQz8>YlWI@2`:eM51
+R6
+31
+R7
+!i10b 1
+R53
+Z78 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd|
+Z79 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd|
+!i113 1
+R11
+R12
+Anand_delay
+R2
+R3
+R21
+l14
+L13
+VIUk>5X?g2z7ldd>`gDTgl2
+!s100 I4IP4NoFjn67iEl;X8X5<1
+R6
+31
+R7
+!i10b 1
+R53
+R78
+R79
+!i113 1
+R11
+R12
+Enot_gate
+R56
+R2
+R3
+R0
+Z80 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd
+Z81 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd
+l0
+L5
+VdS[zCKhQ6Ra>VmRMhn9Ga3
+!s100 [IQ@zhJRHGc4<B3SLW89m0
+R6
+31
+R7
+!i10b 1
+R8
+Z82 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd|
+Z83 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd|
+!i113 1
+R11
+R12
+Anot_delay
+R2
+R3
+R22
+l14
+L13
+VHY@m2iJ`ie@BA8W@1PB9h2
+!s100 nin97CXjWzj84_XSmfE<d3
+R6
+31
+R7
+!i10b 1
+R8
+R82
+R83
+!i113 1
+R11
+R12
+Epass
+Z84 w1572371906
+R2
+R3
+R0
+Z85 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd
+Z86 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd
+l0
+L4
+VB47XG4RWEB_F2ae1nUXHV0
+!s100 4jKPSfYCa]HKHSOA=3GgE0
+R6
+31
+R7
+!i10b 1
+R8
+Z87 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd|
+Z88 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd|
+!i113 1
+R11
+R12
+Aa1
+R2
+R3
+R43
+l12
+L11
+VcFAnLmcKmQLWm?b>Sa4gI3
+!s100 LGC`BEn0jd_NElM0Fl0II2
+R6
+31
+R7
+!i10b 1
+R8
+R87
+R88
+!i113 1
+R11
+R12
+Exor_gate
+R56
+R2
+R3
+R0
+Z89 8D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd
+Z90 FD:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd
+l0
+L5
+Vi;DGT8zBMRc7l^OBS]h?I2
+!s100 399PNI:Fd876c=JH<_Jm=1
+R6
+31
+R7
+!i10b 1
+R8
+Z91 !s90 -reportprogress|300|-93|-work|work|D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd|
+Z92 !s107 D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd|
+!i113 1
+R11
+R12
+Axor_delay
+R2
+R3
+R30
+l14
+L13
+V]_cUcz3`<DWi;d:zD]?f40
+!s100 =gkPeIbVF6TfMgLe9Gne71
+R6
+31
+R7
+!i10b 1
+R8
+R91
+R92
+!i113 1
+R11
+R12

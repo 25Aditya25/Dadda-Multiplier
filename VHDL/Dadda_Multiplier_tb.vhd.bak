@@ -1,0 +1,37 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity Dadda_Multiplier_tb is
+end Dadda_Multiplier_tb;
+
+architecture tb of Dadda_Multiplier_tb is
+	component Dadda_Multiplier is 
+	port(
+			A,B: in std_logic_vector(15 downto 0);
+			C: out std_logic_vector(15 downto 0)
+			);
+	end component;
+
+	signal A,B: std_logic_vector(15 downto 0);
+	signal C: out std_logic_vector(15 downto 0);
+	
+	begin
+	
+	uut: Dadda_Multiplier port map(A,B,C);
+	
+	process
+
+	begin
+
+	A<="1111111111111111";
+	B<="0001000100010001";
+	wait for 5 ns;
+	A<="1111111111111111";
+	
+
+	wait;
+
+	end process;
+
+end tb;

@@ -1,0 +1,92 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity Dadda_Multiplier is
+	port(
+		A,B: in std_logic_vector(15 downto 0);
+		C: out std_logic_vector(15 downto 0)
+		);
+end Dadda_Multiplier;
+
+--architecture of 16 bit Dadda_Multiplier 
+architecture sixteen_bit of Dadda_Multiplier is
+
+--Stage 0 Signal--
+
+
+
+--Stage 1 Signal--
+
+type matrix is array (15 downto 0) of std_logic_vector(15 downto 0);
+ 
+
+--type row is array (15 downto 0) of std_logic;
+--type matrix is array (15 downto 0) of row;
+
+
+signal Stage0: matrix;
+
+
+
+begin
+
+--Stage 0 Generation--
+--  Wire limit 16 --
+
+
+Stage0(0)(0)<='0';
+
+
+
+
+--Stage 1 Generation--
+--  wire limit 13 ---
+
+
+
+
+
+
+--Stage 2 Generation--
+--  wire limit 9 ---
+
+
+
+
+
+
+--Stage 3 Generation--
+--  wire limit 6 ---
+
+
+
+
+
+
+--Stage 4 Generation--
+--  wire limit 4 ---
+
+
+
+
+
+
+--Stage 5 Generation--
+--  wire limit 3 ---
+
+
+
+
+
+--Stage 6 Generation--
+--  wire limit 2 ---
+
+
+
+
+
+
+--Booth adder of 30 Bit--
+
+
+end sixteen_bit;

@@ -1,0 +1,216 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do Dadda_Multiplier_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:49 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/full_Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity full_Adder
+# -- Compiling architecture ha of full_Adder
+# End time: 18:05:49 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:49 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/half_Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity half_Adder
+# -- Compiling architecture ha of half_Adder
+# End time: 18:05:49 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:49 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/nand_gate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity nand_gate
+# -- Compiling architecture nand_delay of nand_gate
+# End time: 18:05:50 on Nov 09,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:50 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/not_gate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity not_gate
+# -- Compiling architecture not_delay of not_gate
+# End time: 18:05:50 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:50 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/and_gate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity and_gate
+# -- Compiling architecture and_delay of and_gate
+# End time: 18:05:50 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:50 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Pass.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Pass
+# -- Compiling architecture a1 of Pass
+# End time: 18:05:50 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:50 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/xor_gate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xor_gate
+# -- Compiling architecture xor_delay of xor_gate
+# End time: 18:05:50 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:50 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/logic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity logic
+# -- Compiling architecture logic_delay of logic
+# End time: 18:05:51 on Nov 09,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:51 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gp.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity gp
+# -- Compiling architecture gp_arch of gp
+# -- Loading entity nand_gate
+# -- Loading entity not_gate
+# -- Loading entity xor_gate
+# End time: 18:05:51 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:51 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/black_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity black_block
+# -- Compiling architecture black_block_arch of black_block
+# -- Loading entity logic
+# -- Loading entity not_gate
+# -- Loading entity nand_gate
+# End time: 18:05:51 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:51 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/gray_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity gray_block
+# -- Compiling architecture gray_block_arch of gray_block
+# -- Loading entity logic
+# -- Loading entity not_gate
+# End time: 18:05:51 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:51 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Brent_Kung_Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Brent_Kung_Adder
+# -- Compiling architecture thirtytwo_bit of Brent_Kung_Adder
+# -- Loading entity gp
+# -- Loading entity gray_block
+# -- Loading entity black_block
+# -- Loading entity xor_gate
+# End time: 18:05:51 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:52 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Dadda_Multiplier
+# -- Compiling architecture sixteen_bit of Dadda_Multiplier
+# -- Loading entity and_gate
+# -- Loading entity Pass
+# -- Loading entity half_Adder
+# -- Loading entity full_Adder
+# -- Loading entity Brent_Kung_Adder
+# End time: 18:05:52 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:52 on Nov 09,2019
+# vcom -reportprogress 300 -93 -work work D:/IITB Files/Sem I/VLSI Design/Assignment_3/VHDL/Dadda_Multiplier_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Dadda_Multiplier_tb
+# -- Compiling architecture tb of Dadda_Multiplier_tb
+# End time: 18:05:52 on Nov 09,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs="+acc"  Dadda_Multiplier_tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs=""+acc"" Dadda_Multiplier_tb 
+# Start time: 18:05:52 on Nov 09,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.dadda_multiplier_tb(tb)
+# Loading work.dadda_multiplier(sixteen_bit)
+# Loading work.and_gate(and_delay)
+# Loading work.pass(a1)
+# Loading work.half_adder(ha)
+# Loading work.full_adder(ha)
+# Loading work.brent_kung_adder(thirtytwo_bit)
+# Loading work.gp(gp_arch)
+# Loading work.nand_gate(nand_delay)
+# Loading work.not_gate(not_delay)
+# Loading work.xor_gate(xor_delay)
+# Loading work.gray_block(gray_block_arch)
+# Loading work.logic(logic_delay)
+# Loading work.black_block(black_block_arch)
+# ** Warning: Design size of 12550 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# End time: 18:53:48 on Nov 09,2019, Elapsed time: 0:47:56
+# Errors: 0, Warnings: 1
